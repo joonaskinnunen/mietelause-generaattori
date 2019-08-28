@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(60, 137, 117);
+    padding-top: 40px;
+  }
+  h1 {
+    color: white;
+    font-family: 'Cabin Sketch', cursive !important;
+    font-size: 4vw;
+    text-transform: uppercase;
+    margin-top: 30px;
+  }
+  #randomquote, #whosaid {
+    color: white;
+  }
+  .centered {
+    display: block;
+    margin: auto;
+  }
+  #quotebox {
+    background-color: rgb(60, 137, 117);
+    margin: 5% 0 10% 0;
+    padding: 20px 20px;
+    background-color: black;
+    width: 100%;
+    box-shadow: 10px 5px 20px black;
+  }
+  #randomquote {
+    font-size: 25px;
+  }
+
+  .button, .button:active, .button:focus {
+      background-color: rgb(60, 137, 117);
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 16px;
+      cursor: pointer;
+      outline: none;
+  }
+ 
+  #twitter-box {
+    padding-top: 20px;
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: auto;
+  }
